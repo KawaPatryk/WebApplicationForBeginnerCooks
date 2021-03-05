@@ -1,0 +1,15 @@
+@import "./Ingredient/Ingredient.css";
+
+.App {
+  text-align: center;
+}
+
+.filterContent {
+  width: 20%;
+  float: left;
+}
+
+.mainContent {
+  width: 80%;
+  float: left;
+}
